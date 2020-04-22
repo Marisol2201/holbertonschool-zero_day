@@ -19,6 +19,6 @@
 
 **Advanced**
 - Tetris:
- - What is the command to play Tetris inside Emacs?
+  - What is the command to play Tetris inside Emacs?
 - Doctor:
   - What is the command to talk to your doctor?
