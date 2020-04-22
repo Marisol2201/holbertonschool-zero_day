@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-# holbertonschool-zero_day
-# holberton-system_engineering-devops
-# holberton-system_engineering-devops
-=======
-_Mi nuevo README.md :D_
->>>>>>> 0ebbc53425d8e848dd61288b54ccedb789915e0a
-# holbertonschool-low_level_programming
-# holbertonschool-low_level_programming
-# holbertonschool-low_level_programming
-# holbertonschool-low_level_programming
+## holbertonschool-zero_day
+
+**Projects:**
+
+- 0x00. Vagrant
+- 0x01. Emacs
+- 0x02. vi
+- 0x03. Git
+
