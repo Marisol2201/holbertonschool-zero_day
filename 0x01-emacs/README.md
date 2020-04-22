@@ -2,17 +2,23 @@
 
 **Mandatory**
 
-- 0. Opening:
+- Opening:
   - What is the command to open a file from within Emacs?
-- 1. Saving:
+- Saving:
   - What is the command to save a file?
-- 2. Cutting:
+- Cutting:
   - What is the command to cut an entire line?
-- 3. Pasting:
+- Pasting:
   - What is the command to paste?
-- 4. Searching:
+- Searching:
   - What is the command to search forward?
-- 5. Undoing:
+- Undoing:
   - What is the command to undo?
-- 6. Quitting:
+- Quitting:
   - What is the command to quit Emacs?
+
+**Advanced**
+- Tetris:
+ - What is the command to play Tetris inside Emacs?
+- Doctor:
+  - What is the command to talk to your doctor?
